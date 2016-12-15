@@ -1,6 +1,6 @@
 # SkullTutorialTestwReadme
 
-## Introduction
+# Introduction
 
 This tutorial will cover the mechanical, electrical, and software build so that you can create an animatronic skull that uses 8 servos, all run from a single 8-bit microcontroller. We will be using the PIC16F18855 chip on Microchip's Xpress development board: 
 
@@ -10,11 +10,11 @@ This tutorial will cover the mechanical, electrical, and software build so that 
 
 Because the board does not contain enough independent PWM modules to run the number of servos, this tutorial show a novel method of creating an 8th independent PWM signal on a chip that currently contains only 7. I also include my BOM and Schematic for the electronics as well as instructions for fabrication of the skull. Let's get started!
 
-## Building the Skull
+# Building the Skull
 
 First, let's cover getting the skull built.
 
-# Bill of Materials
+## Bill of Materials
 
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 *http://damien.pobel.fr/post/youtube-video-github/* <-- How to insert videos
@@ -37,7 +37,7 @@ Kobalt 1/2-in to 1/2-in U-Joint Socket Adapter | 1 | https://www.lowes.com/pd/Ko
 
 The screws happened to be the screws on hand in the lab. Most screws will do the job as long as they fit the 4-40 spec.
 
-# Overview
+## Overview
 
 1. Build the Jaw Mechanism
 2. Build the Eyes Mechanism
@@ -46,11 +46,23 @@ The screws happened to be the screws on hand in the lab. Most screws will do the
 5. (Optional) Build a Button
 6. Build the Base
 
-# Building the Jaw Mechanism
+## Building the Jaw Mechanism
 
 First, take the skull and cut it open per the image shown in Figure 1. I cut out a lot of the upper and lower part of the back of the skull to give me plenty of room to work. The more you cut out, the more difficult it is to put back together later if you want to, so keep this in mind when deciding exactly how much to cut out. I probably could have been a little more liberal with my cutting.
 
 
 <p align="center">
   <img  src="https://cloud.githubusercontent.com/assets/11512868/21245023/8abb30b0-c2dd-11e6-818b-338c0054e899.png" height="400" />
+</p>
+
+After you have cut open the head, take a drill ½” in diameter and drill a hole behind the cheek bone of the skull. This will serve as hole to connect our first rod between the first servo and the articulating Jaw. The placing for the first servo will be somewhat dependent on how you build your arm in the next step, so it is best to experiment with servo placement after you have built the arm and tested that the Jaw will move to the degree that you would like.
+
+<p align="center">
+  <img  src="https://cloud.githubusercontent.com/assets/11512868/21245998/14fe8b8c-c2e3-11e6-8c9c-1039909a88d1.png" height="400" />
+</p>
+
+There are no exact measurements for this part because it will depend somewhat on where you decide to place your first servo. My threaded rod was about 2” long. Take the threaded rod and cap it with a ball link on either side by  screwing the threaded rod into the ball link’s stalk. Take a very small drill bit, slightly smaller than the diameter of the threaded portion of your ball joint, and drill a hole in the jaw of the skull as seen in the pictures. After this, take the same drill bit and drill a hole in the servo arm to screw your other ball joint into. Push the two ball links on to the two ball joints, and secure both ball joints by attaching first a washer then a hex bolt to the back side of each ball joint as seen in the top Figure. After you have built the arm, and then placed and glued the servo, you are ready for the next section, the Eyes!
+
+<p align="center">
+  <img  src="https://cloud.githubusercontent.com/assets/11512868/21246295/0c89c5be-c2e5-11e6-83e5-1d5d36f8dbd3.png" height="600" />
 </p>
