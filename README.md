@@ -4,7 +4,7 @@
 
 This tutorial will cover the mechanical, electrical, and software build so that you can create an animatronic skull that uses 8 servos, all run from a single 8-bit microcontroller. We will be using the PIC16F18855 chip on Microchip's Xpress development board: 
 
-<img src="https://cloud.githubusercontent.com/assets/11512868/21235770/76374f84-c2b5-11e6-9304-a9be30eb3d10.png" width="400" height="300" />
+<img align="center" src="https://cloud.githubusercontent.com/assets/11512868/21235770/76374f84-c2b5-11e6-9304-a9be30eb3d10.png" width="400" height="300" />
 
 Because the board does not contain enough independent PWM modules to run the number of servos, this tutorial show a novel method of creating an 8th independent PWM signal on a chip that currently contains only 7. I also include my BOM and Schematic for the electronics as well as instructions for fabrication of the skull. Let's get started!
 
@@ -49,5 +49,6 @@ The screws happened to be the screws on hand in the lab. Most screws will do the
 First, take the skull and cut it open per the image shown in Figure 1. I cut out a lot of the upper and lower part of the back of the skull to give me plenty of room to work. The more you cut out, the more difficult it is to put back together later if you want to, so keep this in mind when deciding exactly how much to cut out. I probably could have been a little more liberal with my cutting.
 
 
-
-<img style="float:center" src="https://cloud.githubusercontent.com/assets/11512868/21245023/8abb30b0-c2dd-11e6-818b-338c0054e899.png" height="400" />
+<p align="center">
+  <img  src="https://cloud.githubusercontent.com/assets/11512868/21245023/8abb30b0-c2dd-11e6-818b-338c0054e899.png" height="400" />
+</p>
