@@ -14,7 +14,8 @@ First, let's cover getting the skull built.
 
 # Bill of Materials
 
-[!(https://img.youtube.com/vi/[Insert Video ID]/0.jpg)](https://www.youtube.com/watch?v=[Insert Video ID])
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+*http://damien.pobel.fr/post/youtube-video-github/* <-- How to insert videos
 
 Item | Quantity| Online Link
 ------------ | ------------- | -------------
@@ -29,7 +30,24 @@ Mal to Male Jumper Wires | 1 Box | https://www.amazon.com/Phantom-YoYo-Dupont-Ca
 (Optional) Perf Board | 1 | https://www.amazon.com/10Pcs-Prototype-Paper-Universal-Board/dp/B00ARTP1J4/ref=sr_1_1?ie=UTF8&qid=1477330293&sr=8-1&keywords=perf+board	
 Ping Pong Ball | 2 | Any store
 4-40 3/4" Screws | 1 Box | https://www.amazon.com/dp/B000MN3H50/ref=biss_dp_t_asn
+Kobalt 1/2-in to 1/2-in U-Joint Socket Adapter | 1 | https://www.lowes.com/pd/Kobalt-1-2-in-to-1-2-in-U-Joint-Socket-Adapter/3380278		
 
-The screws happened to be the screws on hand in the lab. The length and type is not super specific, and most screws will do the job as long as they fit the 4-40 spec
+
+The screws happened to be the screws on hand in the lab. Most screws will do the job as long as they fit the 4-40 spec.
+
+# Overview
+
+1. Build the Jaw Mechanism
+2. Build the Eyes Mechanism
+3. Build the Neck Mechanism
+4. (Optional) Build the Control Board
+5. (Optional) Build a Button
+6. Build the Base
+
+# Building the Jaw Mechanism
+
+First, take the skull and cut it open per the image shown in Figure 1. I cut out a lot of the upper and lower part of the back of the skull to give me plenty of room to work. The more you cut out, the more difficult it is to put back together later if you want to, so keep this in mind when deciding exactly how much to cut out. I probably could have been a little more liberal with my cutting.
 
 
+
+<img style="float:center" src="https://cloud.githubusercontent.com/assets/11512868/21245023/8abb30b0-c2dd-11e6-818b-338c0054e899.png" height="400" />
