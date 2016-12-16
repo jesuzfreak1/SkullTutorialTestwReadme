@@ -40,12 +40,11 @@ The screws happened to be the screws on hand in the lab. Most screws will do the
 ## Overview
 
 1. [Build the Jaw Mechanism](#building-the-jaw-mechanism)
-
-2. Build the Eyes Mechanism
-3. Build the Neck Mechanism
-4. (Optional) Build the Control Board
-5. (Optional) Build a Button
-6. Build the Base
+2. [Build the Eyes Mechanism](#building-the-eye-mechanism)
+3. [Build the Neck Mechanism](#building-the-neck-mechanism)
+4. [(Optional) Build the Control Board](#building-the-control-board)
+5. [(Optional) Build a Button](#building-a-button)
+6. [Build the Base](#build-the-base)
 
 ## Building the Jaw Mechanism
 
@@ -67,3 +66,5 @@ There are no exact measurements for this part because it will depend somewhat on
 <p align="center">
   <img  src="https://cloud.githubusercontent.com/assets/11512868/21246295/0c89c5be-c2e5-11e6-83e5-1d5d36f8dbd3.png" height="600" />
 </p>
+
+## Building the Eye Mechanism
