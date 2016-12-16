@@ -39,7 +39,8 @@ The screws happened to be the screws on hand in the lab. Most screws will do the
 
 ## Overview
 
-1. Build the Jaw Mechanism
+1. [Build the Jaw Mechanism](#building-the-jaw-mechanism)
+
 2. Build the Eyes Mechanism
 3. Build the Neck Mechanism
 4. (Optional) Build the Control Board
